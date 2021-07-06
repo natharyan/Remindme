@@ -4,9 +4,9 @@ Remindme is a universal reminder application which includes, notes, drawing note
 
 ![image6](https://user-images.githubusercontent.com/74306760/124652419-c0ce6580-deb9-11eb-86a2-84e6274d4ddf.png)
 
-![image13](https://user-images.githubusercontent.com/74306760/124652724-11de5980-deba-11eb-9986-fed9e4d5a908.png)
-
 ![image12](https://user-images.githubusercontent.com/74306760/124652441-c5931980-deb9-11eb-853b-fa6141660e03.png)
+
+![image13](https://user-images.githubusercontent.com/74306760/124652724-11de5980-deba-11eb-9986-fed9e4d5a908.png)
 
 ![image9](https://user-images.githubusercontent.com/74306760/124652591-e78c9c00-deb9-11eb-8a73-910fbb65d27e.png)
 
